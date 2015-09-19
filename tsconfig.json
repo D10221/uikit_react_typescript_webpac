@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES5",
+        "noImplicitAny": false,
+        "outDir": "built",        
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "declaration": false,
+        "jsx": "react"     
+    },
+    "exclude": [
+        "node_modules",
+        "bower_components"
+    ],
+    "files":[
+        "typings/tsd.d.ts",
+        "src/main.tsx"
+        ]
+}

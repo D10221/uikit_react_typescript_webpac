@@ -1,0 +1,1 @@
+tsc templates\welcome.tsx --jsx react --module commonjs --target es5 --outDir built 

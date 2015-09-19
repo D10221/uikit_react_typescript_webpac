@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90"
+   height="30"
+   viewBox="0 0 90 30"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91pre3 r13670"
+   sodipodi:docname="devbot_logo.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="sketch"
+       id="path-effect4411"
+       is_visible="true"
+       nbiter_approxstrokes="5"
+       strokelength="100"
+       strokelength_rdm="0.3;1"
+       strokeoverlap="0.3"
+       strokeoverlap_rdm="0.3;1"
+       ends_tolerance="0.1;1"
+       parallel_offset="5;1"
+       tremble_size="5;1"
+       tremble_frequency="1"
+       nbtangents="5"
+       tgt_places_rdmness="1;1"
+       tgtscale="10"
+       tgtlength="100"
+       tgtlength_rdm="0.3;1" />
+    <inkscape:path-effect
+       effect="clone_original"
+       id="path-effect4403"
+       is_visible="true"
+       linkedpath="#text4306" />
+    <filter
+       inkscape:label="Evanescent"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline and adding progressive transparency at edges"
+       style="color-interpolation-filters:sRGB"
+       id="filter4469">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="3"
+         in="SourceGraphic"
+         id="feGaussianBlur4471" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="SourceGraphic"
+         id="feColorMatrix4473" />
+      <feComposite
+         operator="in"
+         in="result6"
+         in2="result7"
+         id="feComposite4475" />
+    </filter>
+    <filter
+       inkscape:label="Evanescent"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline and adding progressive transparency at edges"
+       style="color-interpolation-filters:sRGB"
+       id="filter4179">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="3"
+         in="SourceGraphic"
+         id="feGaussianBlur4181" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="SourceGraphic"
+         id="feColorMatrix4183" />
+      <feComposite
+         operator="in"
+         in="result6"
+         in2="result7"
+         id="feComposite4185" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#150101"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.200035"
+     inkscape:cx="59.146824"
+     inkscape:cy="21.107804"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="false"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4240" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1022.3621)">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05510154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 7.3403278,1022.855 c 0.1949398,-0.012 0.3893738,0.012 0.5843125,0 0.5378775,-0.039 1.0923617,-0.092 0.875807,0.6626 -0.113086,0.526 0.236137,1.5368 -0.1934468,1.7309 -0.937343,-0.012 -2.2467756,0 -2.577448,1.1556 -0.4744329,2.4611 0.07721,5.0264 -0.4790616,7.488 -0.2107425,1.5707 -1.373527,2.7815 -2.6959489,3.4239 0.5237604,0.245 1.0203551,0.5638 1.4417584,0.9744 1.435999,1.4381 1.5206139,3.694 1.5331046,5.6443 0.1404281,1.5803 -0.2560192,3.2294 0.376937,4.7164 0.5823183,0.846 1.7229816,0.7042 2.5941053,0.7254 l 0,2.3959 c -0.419063,-0.012 -0.8382292,0 -1.2572098,-0.012 -1.5090062,0.1061 -3.0963483,-0.7475 -3.6776749,-2.2578 -0.792312,-2.6608 -0.2407542,-5.5 -0.6351565,-8.2177 -0.050579,-1.5329 -1.3988286,-2.8227 -2.85299324,-2.7389 l 0,-2.4888 c 0.69146624,0 1.39225544,-0.2262 1.92196594,-0.7018 1.1305677,-1.0835 1.0288507,-2.8689 1.0767846,-4.3386 0.1457367,-1.9989 -0.2169809,-4.1229 0.5748872,-6.0196 0.5151852,-1.432 2.0023059,-2.1521 3.3892772,-2.1521 z m 23.1707262,-0.015 c 0.35446,0.012 0.709005,0 1.063384,0.012 1.454665,-0.096 3.003829,0.6681 3.614523,2.1091 0.895225,2.7242 0.275942,5.6717 0.714916,8.4663 0.07746,1.4897 1.421424,2.7085 2.836386,2.6235 l 0,2.4886 c -0.861192,-0.012 -1.739774,0.371 -2.273462,1.0951 -0.858418,1.3896 -0.686546,3.1545 -0.736708,4.7365 -0.10652,2.016 0.223463,4.3219 -1.033075,6.0402 -0.928805,1.3244 -2.665255,1.407 -4.094198,1.3551 -0.592648,-0.019 -0.147311,-1.0988 -0.285402,-1.5825 -0.03397,-0.4805 -0.103654,-0.9933 0.490057,-0.815 0.831256,0.012 1.990227,-0.1133 2.275159,-1.1305 0.461016,-2.328 -0.02491,-4.7501 0.399763,-7.095 0.181795,-1.6952 1.282295,-3.2 2.779601,-3.8484 -0.467895,-0.2432 -0.916451,-0.533 -1.314939,-0.8887 -1.503572,-1.2933 -1.641103,-3.5133 -1.652356,-5.4053 -0.116166,-1.52 0.141304,-3.0787 -0.210934,-4.5606 -0.160322,-1.0096 -1.293323,-1.2124 -2.106157,-1.2006 -0.518483,0.085 -0.823924,-0.033 -0.660194,-0.6636 0.113132,-0.526 -0.23628,-1.5373 0.193636,-1.7308 z m -18.365049,3.0911 0,-0.1015 0,-0.1015 14.75583,0 c -0.0308,0.9546 0.06274,1.9271 -0.0477,2.8699 0.356031,0.227 0.85159,0 1.266104,0.087 0.599624,0.136 0.356858,0.9411 0.331812,1.385 1.221445,0.07 2.565286,0.012 3.833521,0.03 l 0,8.8242 -3.14378,0 0,-5.2912 -2.239958,0 -3.79e-4,15.6749 -4.123311,0 0,-7.7416 -6.508261,0 0,7.7416 -4.12369,0 -1.9e-4,-15.6749 -2.134719,0 0,5.2912 -3.1434002,0 0,-8.7642 c 1.2171703,-0.1262 2.4442966,-0.034 3.6626002,-0.055 0.184166,-0.3382 -0.100209,-0.8086 0.04013,-1.1884 0.342719,-0.5177 1.059975,-0.1015 1.543024,-0.2405 0.08245,-0.8679 0.0057,-1.8403 0.03237,-2.7448 z m 3.186366,1.5796 c -0.182193,0.3457 0.01614,0.7825 -0.01741,1.1653 l 8.389342,0 c 0.200413,-0.341 -0.0078,-0.7829 0.02952,-1.1653 z"
+       id="path4401"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="120"
+       y="1022.3621"
+       id="text4175"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4177"
+         x="120"
+         y="1022.3621" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="38.843178"
+       y="1050.1659"
+       id="text4157"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4159"
+         x="38.843178"
+         y="1050.1659">devBot;</tspan></text>
+  </g>
+</svg>
